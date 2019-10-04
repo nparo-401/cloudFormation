@@ -14,15 +14,15 @@
 
 ### Images
 
-![create stack](./assets/create-stack.png =650x)
+![create stack](./assets/create-stack.png=650x)
 
-![configure stack](./assets/configure-stack.png =650x)
+![configure stack](./assets/configure-stack.png=650x)
 
-![stack details](./assets/stack-details.png =650x)
+![stack details](./assets/stack-details.png=650x)
 
-![stack list](./assets/stacks.png =650x)
+![stack list](./assets/stacks.png=650x)
 
-![stack overview](./assets/stack-overview.png =650x)
+![stack overview](./assets/stack-overview.png=650x)
 
 ## Lab 44
 ### Template 1
