@@ -11,6 +11,21 @@
   * choose `personal access tokens`
   * choose `generate new token`
     * give it a name and generate the token
+* within the `cool-react-app` directory:
+  * run `npm i @code-fellows/aws-tools` to install the aws-tools cdn
+  * create a `.env` file and add your routes to the following variables:
+  ```
+  AWS_GITHUB_URL=
+  AWS_GITHUB_REPO=
+  AWS_GITHUB_USER=
+  AWS_GITHUB_TOKEN=
+  AWS_APP=
+  AWS_BUILD=
+  AWS_BUCKET=
+  AWS_PROJECT=
+  ```
+* ACP to github
+* go to the AWS console and do perform a cloudFormation - use the images below to as a guideline.
 
 ### Images
 
