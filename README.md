@@ -14,20 +14,42 @@
 
 ### Images
 
+* Create the stack:
+  * choose `Template is ready`
+  * choose `Upload a template file`
+  * upload the yml file
+
 ![create stack](./assets/create-stack.png)
+
+* Configure the stack:
+  * leave all values as default
 
 ![configure stack](./assets/configure-stack.png)
 
+* Stack Details:
+  * add a unique name to the stack
+
 ![stack details](./assets/stack-details.png)
 
+* Stack List:
+  * this shows all created stacks
+
 ![stack list](./assets/stacks.png)
+
+* Stack Overview:
+  * provides details about the stack
 
 ![stack overview](./assets/stack-overview.png)
 
 ## Lab 44
 ### Template 1
+* Need to change all instances of the `cool-react-bucket` from kebab-case to camelCase.
 ### Template 2
+
 ### Template 3
+
 ### Template 4
+
 ### Template 5
+
 ### Template 6
