@@ -54,7 +54,7 @@
 * Stack Overview:
   * provides details about the stack
 
-![stack overview](./assets/stack-overview.png)
+![stack overview](./assets/stack-overview1.png)
 
 ## Lab 44
 ### Template 1
