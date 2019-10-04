@@ -24,6 +24,7 @@
   AWS_BUCKET=
   AWS_PROJECT=
   ```
+  * run `aws-react-yaml` to create the yml file
 * ACP to github
 * go to the AWS console and do perform a cloudFormation - use the images below to as a guideline.
 
