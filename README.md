@@ -44,12 +44,3 @@
 ## Lab 44
 ### Template 1
 * Need to change all instances of the `cool-react-bucket` from kebab-case to camelCase.
-### Template 2
-
-### Template 3
-
-### Template 4
-
-### Template 5
-
-### Template 6
